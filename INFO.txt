@@ -1,0 +1,27 @@
+OBS: Toda página que eu colocar dentro da pasta pages, precisa ser como export default function
+
+    NO tsconfig coloca o  "strict": false,
+
+
+
+    yarn add sass
+extensões Sass e css modules (ver se tem elas instaladas)
+
+ICONES
+    yarn add react-icons
+
+
+REQUISIÇÕES HTTP
+
+    yarn add axios
+
+    * para trabalhar com cookie do lado do navegador *
+    * e jwt para decodificar jwt
+    yarn add axios nookies jwt-decode
+
+ALERT PERSONALIZADOS
+    yarn add react-toastify
+
+
+    yarn add react-modal
+    yarn add @types/react-modal -D
